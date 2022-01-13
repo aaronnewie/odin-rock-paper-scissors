@@ -1,0 +1,10 @@
+Computer chooses a number between 1 and 3 randomly
+    1 = rock
+    2 = paper
+    3 = scissors
+
+Player chooses selection through text prompt
+     player selection is case insensitive
+
+if Computer and Player selection is = to 
+    Computer = Rock and Player = Scissors
